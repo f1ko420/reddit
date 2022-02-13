@@ -1,0 +1,30 @@
+.div {
+  background-color: orange;
+  width: 500px;
+  height: auto;
+  color: white;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  opacity: 0;
+}
+.dugme {
+  margin-bottom: 50px;
+}
+.inf {
+  margin: 10px;
+}
+.kuc {
+  text-align: center;
+}
+.asc {
+  float: left;
+}
+.desc {
+  float: right;
+}
+a {
+  text-decoration: none;
+}
